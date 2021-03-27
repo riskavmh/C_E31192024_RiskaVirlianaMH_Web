@@ -23,7 +23,7 @@
 	</body>-->
 	<body>
 		<h3>
-			Daftar Angkatan
+			Daftar Mahasiswa
 		</h3>
 		<table border="1">
 			<tr>
